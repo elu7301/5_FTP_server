@@ -6,7 +6,7 @@ import socket
 Удалить папку - deldir <dirname>
 Удалить файл -  rm <filename>
 Переименовать файл - mv <oldname> <newname>
-Скопировать файл с клиента на сервер - clienttoserver <filename>
+Скопировать файл с клиента на сервер - clienttoserver <filename> <content>
 Скопировать файл с сервера на клиент - servertoclient <filename>
 Выход (отключение клиента от сервера) - exit
 '''
